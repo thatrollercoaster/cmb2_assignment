@@ -6,3 +6,5 @@ Write a GUI-based scientific software program with Python based on MVC design pa
 
 + Stop codons: TAA, TAG and TGA
 
+![Figure 1. Graphical User Interface layout](assets/layout_img.jpg)
+<img src="layout_img.jpg" width="450" height="350">
